@@ -1,0 +1,33 @@
+* {
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{  
+ width: 680px;
+ background-color: 	#ced6a1; 
+ margin: 20px auto;
+ padding: 15px;
+}
+#header{
+ margin-top: 10px;
+ margin-left: 90px;
+}
+h1 {
+    display: inline-block;
+}
+.white {
+    background-color: white;
+}
+.skyblue {
+    border: 3px solid black;
+    padding: 10px;
+    background-color: skyblue;
+}
+.orangered {
+    border: 3px solid black;
+     padding: 10px; 
+    background: 	#ff5b5b;
+}
+#main_content{
+ display: inline-block;
+}
